@@ -38,11 +38,10 @@
 
 ---
 
-## Installation and Setup
-
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/vashu2425/ask-krishna.git
 cd ask-krishna
+
 
