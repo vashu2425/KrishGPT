@@ -1,6 +1,7 @@
 # KrishGPT! 🦚 - A RAG-Based Bhagavad Gita Query Assistant
 
-**KrishGPT!** s an interactive RAG web app that lets you ask questions about the Bhagavad Gita. It uses advanced NLP to retrieve relevant text and generate insightful, context-aware responses, with a built-in feature to translate answers into Hindi for broader accessibility.
+**KrishGPT!** is an interactive RAG web app that lets you ask questions about the Bhagavad Gita. It uses advanced NLP to retrieve relevant text and generate insightful, context-aware responses, with a built-in feature to translate answers into Hindi for broader accessibility.
+
 ---
 
 ## Key Features
